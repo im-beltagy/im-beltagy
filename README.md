@@ -13,8 +13,8 @@
 ## Technical Skills:
 ##### ⚛️ REACT.JS / NEXT.JS
 ##### 💻 HTML / CSS / JAVASCRIPT
-##### 🚀 PUG / SASS / GULP
-##### 🎨 MUI / BOOTSTRAP
+##### 🚀 TYPESCRIPT / PUG / SASS / GULP
+##### 🎨 MUI / TAILWIND / BOOTSTRAP
 ##### 🗃️ REDUX & REACT-REDUX / ZUSTAND
 ##### ⚙️ FRMER-MOTION
 
